@@ -11,4 +11,4 @@ You'll find in this notebook a simple implementation for the Poisson Regression,
 ## Want to know more about it?
 Curious about the Poisson Regression? I got you! You can fin the full explanation on my [blog](https://ximenasandoval.github.io/) (**to be published**)
 
-By the way, thanks for passing by :sparkles:
+By the way, thanks for passing by :sparkles: :two_hearts:
