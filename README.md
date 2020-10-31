@@ -9,6 +9,6 @@ Poisson Regression is used to model count data. For this, we assume the response
 You'll find in this notebook a simple implementation for the Poisson Regression, along with a little example with generated data :sparkles:
 
 ## Want to know more about it?
-Curious about the Poisson Regression? I got you! You can fin the full explanation on my [blog](https://ximenasandoval.github.io/) (**to be published**)
+Curious about the Poisson Regression? I got you! You can fin the full explanation on my [blog](https://ximenasandoval.github.io/2020/10/31/poisson.html)
 
 By the way, thanks for passing by :sparkles: :two_hearts:
